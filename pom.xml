@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cn.aotcloud</groupId>
 	<artifactId>commons-oauth2</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<packaging>jar</packaging>
     <name>commons-oauth2</name>
     <description>aotcloud commons-oauth2</description>
@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>cn.aotcloud</groupId>
 			<artifactId>commons-tool</artifactId>
-			<version>1.4.9</version>
+			<version>1.4.10</version>
 		</dependency>
 	</dependencies>
 	
